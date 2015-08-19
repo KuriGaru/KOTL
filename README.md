@@ -9,8 +9,8 @@
 
 ![](https://github.com/andanteyk/ElectronicObserver/wiki/media/mainimage2.png)
 
-각 기능은 각 창으로 독립하고 자유롭게 도킹 탭 화 하는 등, 레이아웃 가능합니다. 
-이하에서는 간단히 설명합니다. **자세한 내용은 [Wiki](https://github.com/andanteyk/ElectronicObserver/wiki)를 참조 하십시오.  
+각 기능은 각 창으로 독립하고 자유롭게 도킹/탭 화 하는 등, 레이아웃 가능합니다. 
+이하에서는 간단히 설명합니다. **자세한 내용은 [Wiki](https://github.com/KuriGaru/Type-74-EO-KOTL/wiki)를 참조 하십시오.  
 
 * 내장 브라우저 (스크린 샷, 줌, 음소거 등)
 * 함대 (상태 (원정 중, 미보급 등), 제공 전력, 색적 능력)
